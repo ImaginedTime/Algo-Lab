@@ -3,7 +3,7 @@
 using namespace std;
 
 class Graph {
-    
+
 }
 
 typedef struct Edge {
