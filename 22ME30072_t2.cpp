@@ -173,7 +173,7 @@ int main() {
     cout << "Enter n: ";
     cin >> n;
 
-    int adj[1000][1000];
+    auto adj = new int[1000][1000];
 
     for(int i = 0; i < n; i++)
     {
